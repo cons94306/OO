@@ -24,4 +24,4 @@ fun main(args: Array<String>) {
 ```
 
 
-![spongebob](spongebob.jpg,"海綿寶寶")
+![spongebob](spongebob.jpg"海綿寶寶")
